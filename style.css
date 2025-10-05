@@ -1,13 +1,11 @@
-h1{font-family:tims new roman,arial;
+h1{font-family:times new roman,arial;
 font-size:50px;
-font-weight:bold;
 color:navy;
 background: linear-gradient(to left,pink, lightblue, lightyellow, pink}
 
 p{display:block;
 text-align:center;
 }
-
 h1{padding:20px;
 margin-top:20px;
 border:20px;
