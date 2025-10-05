@@ -1,0 +1,15 @@
+h1{font-family:tims new roman,;
+font-size:50px;
+font-weight:bold;
+color:navy;
+}
+h1{background: linear-gradient(to left,pink, lightblue, lightyellow, pink)}
+
+p{display:block;
+text-align:center;
+}
+
+h1{padding:20px;
+margin-top:20px;
+border:20px;
+text-align:center
