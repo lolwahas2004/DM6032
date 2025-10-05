@@ -1,9 +1,8 @@
-h1{font-family:tims new roman,;
+h1{font-family:tims new roman,arial;
 font-size:50px;
 font-weight:bold;
 color:navy;
-}
-h1{background: linear-gradient(to left,pink, lightblue, lightyellow, pink)}
+background: linear-gradient(to left,pink, lightblue, lightyellow, pink}
 
 p{display:block;
 text-align:center;
